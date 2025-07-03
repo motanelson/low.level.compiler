@@ -21,7 +21,7 @@ for h in d:
                 n=m.split(",")
                 o=n[0].split("=")
                 if len(o)>1:
-                    n=["<<"+o[0]+o[1]]+n[1:]
+                    n=["<<"]+[o[0]]+[o[1]]+n[1:]
                  
                 e=e+"\n"+str(n)
 
