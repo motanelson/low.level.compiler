@@ -1,9 +1,1 @@
-# low.level.compiler
-
-low level compiler
-
-sh = c2ll
-
-py = ll2list
-
-
+sdl.c.3d.view sdl2 3d file view
